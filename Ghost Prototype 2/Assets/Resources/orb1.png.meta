@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: 987d7b5b6471bd14fb13e975e558797a
+timeCreated: 1489532755
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: JILL HEAD ORB_0
+    21300002: JILL HEAD ORB_1
+    21300004: JILL HEAD ORB_2
+    21300006: JILL HEAD ORB_3
+    21300008: JILL HEAD ORB_4
+    21300010: JILL HEAD ORB_5
+    21300012: JILL HEAD ORB_6
+    21300014: JILL HEAD ORB_7
+    21300016: JILL HEAD ORB_8
+    21300018: JILL HEAD ORB_9
+    21300020: JILL HEAD ORB_10
+    21300022: JILL HEAD ORB_11
+    21300024: JILL HEAD ORB_12
+    21300026: JILL HEAD ORB_13
+    21300028: JILL HEAD ORB_14
+    21300030: JILL HEAD ORB_15
+    21300032: JILL HEAD ORB_16
+    21300034: JILL HEAD ORB_17
+    21300036: JILL HEAD ORB_18
+    21300038: JILL HEAD ORB_19
+    21300040: JILL HEAD ORB_20
+    21300042: JILL HEAD ORB_21
+    21300044: JILL HEAD ORB_22
+    21300046: JILL HEAD ORB_23
+    21300048: orb1_0
+    21300050: orb1_1
+    21300052: orb1_2
+    21300054: orb1_3
+    21300056: orb1_4
+    21300058: orb1_5
+    21300060: orb1_6
+    21300062: orb1_7
+    21300064: orb1_8
+    21300066: orb1_9
+    21300068: orb1_10
+    21300070: orb1_11
+    21300072: orb1_12
+    21300074: orb1_13
+    21300076: orb1_14
+    21300078: orb1_15
+    21300080: orb1_16
+    21300082: orb1_17
+    21300084: orb1_18
+    21300086: orb1_19
+    21300088: orb1_20
+    21300090: orb1_21
+    21300092: orb1_22
+    21300094: orb1_23
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: orb1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3595
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb1_1
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 3595
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb1_2
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 3595
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb1_3
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 3595
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3094
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb1_5
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 3094
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb1_6
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 3094
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb1_7
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 3094
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2593
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb1_9
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2593
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb1_10
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2593
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb1_11
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 2593
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2092
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb1_13
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2092
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb1_14
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2092
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb1_15
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 2092
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1591
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb1_17
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1591
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb1_18
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1591
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb1_19
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1591
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1090
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb1_21
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1090
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb1_22
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1090
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb1_23
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1090
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

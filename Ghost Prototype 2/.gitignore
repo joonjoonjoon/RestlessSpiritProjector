@@ -1,0 +1,60 @@
+# =============== #
+# Unity generated #
+# =============== #
+*[Tt]emp/
+*[Oo]bj/
+!*.[Oo]bj
+*[Uu]nityGenerated/
+*[Ll]ibrary/
+!*glitchlibrary/
+!*ExcelLibrary/
+*[Bb]uilds/
+*[Bb]uild/
+!*Cloudbuild/
+*[Bb]in/
+*[Tt]empBuild/
+Duplicate/
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.log
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+link.xml
+
+# ============ #
+# Builds	   #
+# ============ #
+*.apk
+#*.exe
+*.app
+*.ipa
+
+
+# ============ #
+# Glitchnap    #
+# ============ #
+*_ReSharper*
+
+
+

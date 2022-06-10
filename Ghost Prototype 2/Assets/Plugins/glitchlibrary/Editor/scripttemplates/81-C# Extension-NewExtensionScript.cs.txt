@@ -1,0 +1,11 @@
+
+
+public static class #SCRIPTNAME#
+{
+    public static #EXTENDEENAME# DoSomething(this #EXTENDEENAME# extendee)
+    {
+        //Do soemthing to extendee here!
+
+        return extendee;
+    } 
+}
